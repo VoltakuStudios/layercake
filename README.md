@@ -45,7 +45,7 @@ Once a user has exported a Collection from LayerCake's Construction workflow, th
       
 
 ## Collection Curation Workflow
-![image](https://user-images.githubusercontent.com/96316841/167518155-1c2cf78f-df89-40de-a873-100155a4e1c2.png)
+![image](https://user-images.githubusercontent.com/96316841/167757341-20078683-8315-4fae-afb0-e90fa66bdb63.png)
 Users can quickly and easily search through the images they've generated via per-trait filters, or filter for combinations of traits. They can examine percentage-based representations of each Trait and dynamically assigned Color to ensure the Collection is representative of the desired diversity.
 (This feature suite is still a WIP)
   
