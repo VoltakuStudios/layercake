@@ -58,4 +58,4 @@ Should the user want to generate per-image metadata for the Collection, they wil
 # Where is the Source Code?
 As a studio, we decided that rather than use existing, blackbox, third-party solutions at cost, we'd like to make our own tool in service of our first NFT PFP drop, and then liberate that tool unto our beloved Web3 community! As such, we'll be iterating on LayerCake and perfecting its execution along with the development of our first Collection.
   
-TLDR: We will take a moment to clean up, comment, and push v1 of this tool in Q2 2022 :)
+TLDR: We will take a moment to clean up, comment, and push v1 of this tool in 2022 :)
